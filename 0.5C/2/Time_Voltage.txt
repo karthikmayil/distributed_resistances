@@ -1,0 +1,5 @@
+State         Time      Voltage            mAhg     Equivalence      Solid_Conc       Thickness     Vol_En_Dens     Spe_En_Dens       Areal_cap
+  CDR        hours        Volts           mAh/g          LixNMC          LixNMC              um            Wh/L            Wh/g         mAh/cm2
+    D      0.00000      4.20000     0.00000E+00     0.00000E+00     2.09696E-04     2.61594E-03     0.00000E+00     0.00000E+00     0.00000E+00
+    D      0.02778      3.98830     2.08333E+00     7.49806E-03     1.75457E-02     2.61594E-03     7.32484E+00     5.30786E+00     7.52083E-03
+    D      0.04417          NaN     3.31250E+00     1.19219E-02             NaN     2.61594E-03     1.44264E+01     1.04539E+01     1.19581E-02
